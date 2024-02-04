@@ -7,4 +7,4 @@ Resources:
       ImageId: ami-0cf10cdf9fcd62d37  # Specify your desired AMI ID , have amazon Linux 2 for image
       InstanceType: "t1.micro"  # Specify your desired instance type
       KeyName: my-key-pair  # Specify your key pair name for SSH access
-      AvailabilityZone: 'us-west-1a'  # Replace with your desired availability zone
+      
